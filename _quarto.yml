@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "test website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      
+   
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Assignments"
+        contents:
+          - href: ae04-survey-types.qmd
+            text: AE04
+
+format:
+  html:
+    theme:
+      - vapor
+      - brand
+    css: styles.css
+    toc: true
+
+
+

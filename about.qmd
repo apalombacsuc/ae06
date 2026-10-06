@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+My name is Anthony Palomba. I used to competitively solve Rubik's cubes.

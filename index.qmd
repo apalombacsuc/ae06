@@ -1,0 +1,7 @@
+---
+title: "ae06"
+---
+
+<https://rstudio.github.io/r-manuals/>
+
+Lots of helpful documentation for coding in R.
