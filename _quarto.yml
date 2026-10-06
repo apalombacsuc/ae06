@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "test website"
@@ -9,7 +10,6 @@ website:
         text: Home
       - about.qmd
       
-   
   sidebar:
     style: "docked"
     search: true
@@ -26,6 +26,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    
+
+  
 
 
 
